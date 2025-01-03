@@ -2,3 +2,5 @@
 *.pyc
 *.pyo
 *.log
+**/mlruns/
+**/venv/
