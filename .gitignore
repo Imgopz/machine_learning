@@ -3,6 +3,6 @@
 *.pyo
 *.log
 **/mlruns/
-**/venv/
+**/*env*/
 **/logs/
 **/regressionlogs/
