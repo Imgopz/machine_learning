@@ -8,3 +8,6 @@ bs4
 arxiv
 pymupdf
 wikipedia
+lxml
+langchain_openai
+chromadb
